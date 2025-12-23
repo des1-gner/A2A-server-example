@@ -687,7 +687,7 @@ If the math tool fails to execute:
 
 - [Amazon Bedrock AgentCore Documentation](https://docs.aws.amazon.com/bedrock-agentcore/)
 - [A2A Protocol Specification](https://github.com/google/a2a)
-- [Strands Agents Documentation](https://github.com/strands-ai/strands-agents)
+- [Strands Agents Documentation](https://strandsagents.com/latest/)
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification)
 
 ## Support
